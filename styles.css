@@ -1,0 +1,22 @@
+body{ 
+    background: rgb(172, 212, 245);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.assignment{
+    display: flex;
+    padding: 15px;
+    margin: 10px;
+    background: rgb(255, 139, 203);
+}
+
+.assignment img {
+    width: 500px;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(95, 4, 32);
+    text-align: center;
+}
