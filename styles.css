@@ -2,6 +2,10 @@ body {
     background:#73BFA3;
     font-family: Arial, Helvetica, sans-serif;
 }
+.assignments { 
+    display: flex;
+    flex-wrap:wrap;
+}
 
 .assignment {
     display: flex;
