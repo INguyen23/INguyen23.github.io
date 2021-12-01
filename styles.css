@@ -8,19 +8,22 @@ body {
 }
 
 .assignment {
-    display: flex;
+    width:22%;
     padding: 10px;
     margin: 10px;
+    padding:20px 10px;
     background:#F2ECD8;
     color:#BF5B04;
     border-radius: 20px;
 }
 
 .assignment img {
-    width: 400px;
+    width: 200px;
     margin: 10px;
     color: #59432F;
     border: 4px double #D93D04;
+    display:black;
+    margin:auto;
 }
 
 .assignment img:hover{ 
